@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog!
+title: my first page in github !
 ---
-## my first page in github.
+
 <span style="color:#474b4e;"> ***Every day is a new beginning to learn and be grateful*** </span>
 
 ---
